@@ -1,0 +1,61 @@
+/* Home.css */
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 0;
+    width: 100%; /* Ensure no margin above the container */
+    height: 85vh;
+    background-image: url('./book1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center calc(100% - 69%);
+    background-attachment: fixed;
+    
+  }
+  
+  .home-image {
+    width: 100%; /* Make the image cover the full width */
+    height: 90vh; /* Maintain aspect ratio */
+    object-fit: cover; /* Ensure the image covers the area properly */
+
+  }
+
+  .reviews-container {
+    padding: 1em;
+    display: flex;
+    position: fixed;
+    left: 10px;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: wrap;
+  }
+
+  .review {
+    background-color: white;
+    border-radius: 20px;
+    border: black solid 2px;
+    text-align: center;
+    padding: 1em;
+    margin: 0.5em;
+    max-width: 40em;
+    width: 20em;
+    min-height: 10em;
+    font-size: 23px;
+  }
+
+  .review_name {
+    font-weight: bold;
+    font-size: 26px;
+  }
+
+  .delete-button {
+    font-size: 18px;
+    padding: 0.5em;
+    background-color: rgb(246, 68, 68);
+    font-weight: bold;
+    font-style: italic;
+  }
+ 
+  
+  

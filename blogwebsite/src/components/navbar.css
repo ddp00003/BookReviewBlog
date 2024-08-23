@@ -1,0 +1,60 @@
+body {
+  margin: 0; /* Remove default margin */
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333333; /* Dark gray color */
+  color: white; /* Text color */
+  padding: 10px 20px;
+  margin-top: 0; /* Ensure no margin above the navbar */
+}
+
+.navbar-title {
+  font-size: 100px;
+  font-weight: bold;
+  text-justify: inter-cluster; /* Align text in the center */
+  flex-grow: 4; /* Take up remaining space */
+}
+
+.navbar-options {
+  list-style-type: none;
+  display: flex;
+}
+
+.navbar-options li {
+  margin-right: 10px;
+}
+
+.navbar-options li a {
+  color: white;
+  text-decoration: none;
+  padding: 15px 16px; /* Increased padding for larger clickable area */
+  font-size: 30px; /* Larger font size for options */
+ 
+}
+
+.navbar-options li a:hover {
+  background-color: rgba(255, 255, 255, 0.1); /* Light gray background on hover */
+  border-radius: 5px;
+}
+
+.footer {
+  background-color: #343a40; /* Dark background color */
+  color: white; /* Text color */
+  text-align: center; /* Center-align text */
+  padding: 10px 0; /* Padding for top and bottom */
+  position: fixed; /* Fixed position to stick to bottom */
+  width: 100%; /* Full width */
+  bottom: 0; /* Stick to the bottom of the page */
+}
+
+.google-signin-button {
+  color: white;
+  background-color: #333333; /* Dark gray color */
+  border-radius: 5px;
+  text-decoration: none;
+  padding: 15px 16px; /* Increased padding for larger clickable area */
+  font-size: 30px; /* Larger font size for options */
+}

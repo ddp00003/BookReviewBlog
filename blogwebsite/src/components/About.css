@@ -1,0 +1,76 @@
+.about-container {
+    max-width: none;
+    margin: 0;
+    margin-left: 1px; 
+    padding: 20px 20px 40px 20px; /* Adjusted padding */
+    font-size: 30px;
+    min-height: 100vh; /* Ensures at least full viewport height */
+    display: flex;
+    flex-direction: column;
+    background-image: url('./book1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center calc(100% - 69%);
+    background-attachment: fixed;
+
+   
+  }
+  
+  .about-title {
+    text-align: left;
+    color: #333;
+    margin-left: 0;
+    margin-bottom: 30px;
+    font-size: 50px;
+  }
+  
+  .about-content {
+    text-align: left;
+    font-size: 30px; /* Adjusted to match paragraph size */
+    flex-grow: 1; /* Allows content to expand */
+  }
+  
+  .about-content p {
+    text-align: left;
+    margin-bottom: 20px;
+    line-height: 1.6;
+    font-size: 33px;
+    color: #333333; 
+  }
+  
+  .feature-list {
+    list-style-type: none;
+    padding-left: 0;
+    font-size: 33px;
+   
+  }
+  
+  .feature-list li {
+    margin-bottom: 12px;
+    font-size: 27px;
+    font-size: 33px;
+    color: #333333; 
+  }
+  
+  .feature-list li strong {
+    color: #333333;
+    font-size: 25px;
+    font-size: 33px;
+  }
+  
+  h3 {
+    font-size: 40px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+  }
+  
+  /* Add this to ensure content fills the page */
+  #root, .App {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  .about-content p:first-child {
+    margin-top: -5px;
+  }
+  
