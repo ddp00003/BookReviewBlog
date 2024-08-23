@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/BookReviewBlog/static/css/main.3060f292.css",
-    "main.js": "/BookReviewBlog/static/js/main.4776199f.js",
+    "main.css": "/BookReviewBlog/static/css/main.e7c3c541.css",
+    "main.js": "/BookReviewBlog/static/js/main.12e762b2.js",
     "static/media/book1.jpg": "/BookReviewBlog/static/media/book1.c4c2975643220abd4ac4.jpg",
     "index.html": "/BookReviewBlog/index.html",
-    "main.3060f292.css.map": "/BookReviewBlog/static/css/main.3060f292.css.map",
-    "main.4776199f.js.map": "/BookReviewBlog/static/js/main.4776199f.js.map"
+    "main.e7c3c541.css.map": "/BookReviewBlog/static/css/main.e7c3c541.css.map",
+    "main.12e762b2.js.map": "/BookReviewBlog/static/js/main.12e762b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.3060f292.css",
-    "static/js/main.4776199f.js"
+    "static/css/main.e7c3c541.css",
+    "static/js/main.12e762b2.js"
   ]
 }
