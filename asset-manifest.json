@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BookReviewBlog--React--Django--Firebase/static/css/main.8a890e0a.css",
+    "main.js": "/BookReviewBlog--React--Django--Firebase/static/js/main.6c709256.js",
+    "static/media/book1.jpg": "/BookReviewBlog--React--Django--Firebase/static/media/book1.c4c2975643220abd4ac4.jpg",
+    "index.html": "/BookReviewBlog--React--Django--Firebase/index.html",
+    "main.8a890e0a.css.map": "/BookReviewBlog--React--Django--Firebase/static/css/main.8a890e0a.css.map",
+    "main.6c709256.js.map": "/BookReviewBlog--React--Django--Firebase/static/js/main.6c709256.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a890e0a.css",
+    "static/js/main.6c709256.js"
+  ]
+}
