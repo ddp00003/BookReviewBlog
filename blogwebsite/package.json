@@ -17,7 +17,7 @@
     "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://ddp00003.github.io/BookReviewBlog--React--Django--Firebase",
+  "homepage": "https://ddp00003.github.io/BookReviewBlog",
   "scripts": {
     "start": "concurrently \"npm run start:react\" \"npm run start:django\"",
     "start:react": "react-scripts start",
