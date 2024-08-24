@@ -21,3 +21,6 @@ Step2: Create new terminal make sure npm and node works in the computer -->  ent
 
 Step3: You should be able to run the code by visiting http://localhost:3000
 
+DEMO VIDEO:  
+[DEMO.zip](https://github.com/user-attachments/files/16734816/DEMO.zip)
+
